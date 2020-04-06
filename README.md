@@ -63,7 +63,7 @@ potentially useful interaction with ACLs.
 
 ## Downloading
 
-Grab a compiled copy from the [Releases section](/releases) on GitHub, or compile the module yourself.
+Grab a compiled copy from the [Releases section](https://github.com/kristoff-it/redis-moonkey/releases) on GitHub, or compile the module yourself.
 For now only a precompiled macOS version is available, soon I will also add a Linux version.
 
 ## Compiling
